@@ -28,7 +28,6 @@ e.g.
 == Frequently Asked Questions ==
 
 
-
 == Screenshots ==
 
 1. Widget Options
