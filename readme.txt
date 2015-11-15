@@ -1,6 +1,6 @@
 === Hide Widgets ===
 Contributors: phpbits
-Donate link: http://codecanyon.net/user/phpbits?ref=phpbits
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FMKC2SLPTULP8
 Tags:  widgets, mobile, hide widgets, phpbits, responsive
 Requires at least: 4.0
 Tested up to: 4.3.1
