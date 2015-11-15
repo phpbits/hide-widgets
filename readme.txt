@@ -2,7 +2,7 @@
 Contributors: phpbits
 Donate link: http://codecanyon.net/user/phpbits?ref=phpbits
 Tags:  widgets, mobile, hide widgets, phpbits, responsive
-Requires at least: 3.8
+Requires at least: 4.0
 Tested up to: 4.3.1
 Stable tag: 1.0
 License: GPLv2 or later
@@ -12,7 +12,21 @@ Add options to hide specific widgets on desktop and/or mobile & iPad screen size
 
 == Description ==
 
-This plugin will create additional field options on your widgets. Check Screenshot section for more details. Thanks!
+This plugin will create additional field options on your widgets to hide each widget on desktop size or mobile & iPad screen sizes. Check Screenshot section for more details. Thanks!
+
+<em>Please check my other plugins. Thanks!</em><br />
+<a href="http://codecanyon.net/item/wp-author-box/6815678?ref=phpbits">Author Box Plugin</a><br />
+<a href="https://wordpress.org/plugins/tabsy/">Tabs Plugin</a><br />
+<a href="https://wordpress.org/plugins/wp-image-hover-lite/">Image Hover Plugin</a><br />
+<a href="https://wordpress.org/plugins/wp-reviewr/">Review Plugin</a><br />
+<a href="https://wordpress.org/plugins/knb-lite-knowledge-base-faq/">Knowledge Base Plugin</a><br />
+<a href="http://codecanyon.net/item/sossy-social-profile-and-counter-for-wordpress/8326596?ref=phpbits">Social Counter Plugin</a><br />
+<a href="http://codecanyon.net/item/gilidpanel-wordpress-sliding-panel-sidebar/5753924?ref=phpbits">Sliding Sidebar Plugin</a><br />
+<a href="http://codecanyon.net/item/wordpress-meet-the-team-shortcode-plugin/5292781?ref=phpbits">Meet The Team Plugin</a><br />
+
+= Translators =
+
+* French (fr_FR) - <a href="https://profiles.wordpress.org/jptwf">JP - TWF</a>
 
 
 == Installation ==
@@ -33,6 +47,9 @@ e.g.
 1. Widget Options
 
 == Changelog ==
+
+= 1.1 =
+* French (fr_FR) translation - <a href="https://profiles.wordpress.org/jptwf">JP - TWF</a>
 
 = 1.0 =
 * Initial Plugin release
