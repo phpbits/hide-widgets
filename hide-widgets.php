@@ -3,8 +3,8 @@
 /*
 Plugin Name: Hide Widgets
 Plugin URI: https://wordpress.org/plugins/hide-widgets
-Description: Add options to hide specific widgets on desktop and/or mobile & iPad screen sizes.
-Version: 1.1
+Description: <strong>** Important : This plugin is now merged with <a href="https://wordpress.org/plugins/widget-options/">https://wordpress.org/plugins/widget-options/</a> with additional device and visibility options. Please use this instead, any updates will be added there. Thanks! **</strong>. Add options to hide specific widgets on desktop and/or mobile & iPad screen sizes.
+Version: 1.1.1
 Author: phpbits
 Author URI: http://codecanyon.net/user/phpbits/portfolio?ref=phpbits
 License: GPL2

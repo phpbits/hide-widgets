@@ -12,6 +12,8 @@ Add options to hide specific widgets on desktop and/or mobile & iPad screen size
 
 == Description ==
 
+<strong>** Important : This plugin is now merged with <a href="https://wordpress.org/plugins/widget-options/">https://wordpress.org/plugins/widget-options/</a> with additional device and visibility options. Please use this instead, any updates will be added there. Thanks! **</strong>
+
 This plugin will create additional field options on your widgets to hide each widget on desktop size or mobile & iPad screen sizes. Check Screenshot section for more details. Thanks!
 
 <em>Please check my other plugins. Thanks!</em><br />
